@@ -1,1 +1,1 @@
-[![Builds](https://github.com/ThatOtherShadow/cpp-factorial/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/ThatOtherShadow/cpp-factorial/actions/workflows/cmake-single-platform.yml)
+[![Build](https://github.com/ThatOtherShadow/cpp-factorial/actions/workflows/cmake-single-platform.yml/badge.svg)](https://github.com/ThatOtherShadow/cpp-factorial/actions/workflows/cmake-single-platform.yml)
